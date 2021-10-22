@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danikaaa&layout=compact&theme=mazassumnida&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danikaaa&layout=compact&theme=Demo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats
 
