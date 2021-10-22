@@ -1,4 +1,4 @@
-<h2> Hello! Danika </h2>
+<h2> Hello! Danika is GitHub 🐙</h2>
 
 
 <!--
