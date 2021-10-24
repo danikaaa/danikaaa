@@ -1,4 +1,4 @@
-<h2>🐙 Hello! Danika is GitHub</h2>
+<h2>🐙 Hello! Danika's GitHub</h2>
 
 <!--
 **danikaaa/danikaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
