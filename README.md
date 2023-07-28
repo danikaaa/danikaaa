@@ -1,4 +1,7 @@
 <h1>🐙 Hello! Danika's GitHub</h1>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=danika🐙&fontAlign=70)
+
 <pre>
 안녕하세요👋🏻 노력하며, 나가아가는 웹개발자 이수연입니다!
 풀스택 개발자로 일한 경험이 있으며 프론트엔드, 백엔드 모두 관심있는 개발자 입니다!
